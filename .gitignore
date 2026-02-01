@@ -1,0 +1,22 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# ML models (big binary files – do NOT upload)
+*.pkl
+*.joblib
+
+# Streamlit cache
+.streamlit/
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
